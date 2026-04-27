@@ -1,0 +1,14 @@
+numpy
+pyyaml
+easydict
+opencv-python
+jpeg4py
+pandas
+matplotlib
+tqdm
+lmdb
+six
+timm
+thop
+Pillow
+transformers
